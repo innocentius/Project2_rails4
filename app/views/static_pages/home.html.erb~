@@ -7,6 +7,6 @@
     originated project for a course cs369.
   </h2>
 
-  <%= link_to "FAQ", faq_path, class: "btn btn-large btn-primary" %>
+  <%= link_to "FAQ", '#', class: "btn btn-large btn-primary" %>
 </div>
 
